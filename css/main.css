@@ -1,0 +1,53 @@
+.letterspace { letter-spacing: -.0012em; }
+#indent {
+	text-indent: 80px;
+}
+#slogan {
+	font-style: italic; 
+	font-weight: normal;
+	font-size: 18px;
+	text-align: center;
+	}
+#main {
+	width: 500px;
+	margin: 20px 200px;
+	padding: 20px 20px 20px 20px;
+	background-color: rgba(255,255,255,.8);
+	}
+
+h1 { text-transform: uppercase;
+	font-size: 85px;
+	font-weight: 100;
+
+}
+
+body { 
+	background: url("../images/bg.jpg");
+	background-size: cover;
+	margin: 50px 50px;
+	background-color: white;
+	text-align: left;
+	color: black;
+	line-height: 19px;
+    background-repeat: no-repeat;
+	font-family: 'Raleway', sans-serif;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    font-size: 14px;
+
+}
+
+p {
+   font-size: 14px;
+	font-weight: normal;
+}
+
+#href {
+	font-size: 11px;
+	text-transform: uppercase;
+}
